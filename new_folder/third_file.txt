@@ -1,2 +1,4 @@
 New line in a third file
 Second line in the third file
+Some line that should not be there
+Another line that should not be there
