@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 I wonder what is in the third file now?
+=======
+New line in a third file
+Second line in the third file
+>>>>>>> parent of ae4d9a5... amending the previous change
