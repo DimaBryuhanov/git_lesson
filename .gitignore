@@ -1,1 +1,9 @@
+#Folders:
+node_modules/
+
+#Files:
 commands.txt
+
+#Re:
+*.zip
+*.gz
