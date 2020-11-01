@@ -1,2 +1,3 @@
 2. This is the second file text.
 Here's the new content for the second file.
+Here's the new content for the second file.
